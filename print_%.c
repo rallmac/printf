@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_37 - prints the char %.
  * Return: 1 always.

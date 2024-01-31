@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_s - prints a string.
  * @val: argument
@@ -27,4 +28,3 @@ int print_s(va_list val)
 		return (len);
 	}
 }
-

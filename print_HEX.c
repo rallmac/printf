@@ -35,4 +35,3 @@ int print_HEX(va_list val)
 	free(array);
 	return (counter);
 }
-

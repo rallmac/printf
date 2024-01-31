@@ -29,4 +29,3 @@ int print_pointer(va_list val)
 	y = print_hex_extra(x);
 	return (y + 2);
 }
-

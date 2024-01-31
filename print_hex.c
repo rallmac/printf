@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * print_hex - prints hexgecimal numbers.
  * @val: arguments.
@@ -36,4 +35,3 @@ int print_hex(va_list val)
 	free(array);
 	return (counter);
 }
-
