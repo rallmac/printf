@@ -1,10 +1,10 @@
 #include "main.h"
+
 /**
  * print_exc_string - print exclusuives string.
  * @val: parameter.
  * Return: integer.
  */
-
 int print_exc_string(va_list val)
 {
 	char *s;

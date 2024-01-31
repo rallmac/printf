@@ -2,7 +2,7 @@
 
 
 /**
- * print_hex - prints an hexgecimal number.
+ * print_hex - prints hexgecimal numbers.
  * @val: arguments.
  * Return: counter.
  */

@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_37 - prints the char %.
- * Return: 1.
+ * Return: 1 always.
  */
 int print_37(void)
 {

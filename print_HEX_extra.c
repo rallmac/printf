@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_HEX_extra - prints an hexgecimal number.
+ * print_HEX_extra - prints hexgecimal numbers.
  * @num: number to print.
  * Return: counter.
  */

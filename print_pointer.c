@@ -3,15 +3,15 @@
 /**
  * print_pointer - prints an hexgecimal number.
  * @val: arguments.
- * Return: counter.
+ * Return: always counter.
  */
 int print_pointer(va_list val)
 {
 	void *p;
 	char *s = "(nil)";
 	long int x;
-	int y;
 	int i;
+	int y;
 
 	p = va_arg(val, void*);
 	if (p == NULL)

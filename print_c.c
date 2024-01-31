@@ -2,7 +2,7 @@
 
 /**
  * print_c - prints a character.
- * @val: arguments.
+ * @val: arguments passed.
  * Return: integer.
  */
 int print_c(va_list val)
